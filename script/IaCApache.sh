@@ -6,6 +6,6 @@ echo "Instalação do Apache concluída com sucesso"
 
 echo "Iniciando download do repositório"
 wget https://github.com/denilsonbonatti/linux-site-dio/archive/refs/heads/main.zip /tmp
-unzip /tmp/main.zip -d /var/www/html
+unzip /tmp/linux-site-dio-main.zip -d /var/www/html
 echo "Download do repositório concluído"
 echo "!!!!!Script concluído!!!!!"
